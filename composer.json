@@ -1,0 +1,18 @@
+{
+    "name": "cbo31/bydots",
+    "description": "handle arrays with dots, for what?",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francisco",
+            "email": "cbo317110@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "./src/byDots.php"
+        ]
+    }
+}
